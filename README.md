@@ -1,68 +1,45 @@
-# VAJRA
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=620&lines=AI+%26+Cybersecurity+Engineer;Python+Developer+%7C+ML+Builder;Astrophysics+Enthusiast;Building+tools+for+the+next+billion+learners" alt="Typing SVG" />
+</p>
 
-A third-person tactical stealth shooter, made in **Godot 4.7** (GDScript) by **Kanak Prabhakar**.
-Stage 1: a one-mission vertical slice.
+<h1 align="center">Hi, I'm Kanak Prabhakar</h1>
 
-You are Captain Agnivesh, callsign VAJRA. The Vritra Combine, a flagless arms syndicate, has seized a forward base in the Karanth hills. Your handler, Tara, sends you in alone at dusk. Infiltrate the base, disable the comms tower, recover the intel and reach the helipad, quietly or loudly.
-All people, places and groups are fictional.
+<p align="center">
+  <a href="https://kanakprabhakar.online"><img src="https://img.shields.io/badge/Website-kanakprabhakar.online-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@cooding-with-kanak"><img src="https://img.shields.io/badge/YouTube-Cooding%20with%20Kanak-red?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://huggingface.co/KANAKq"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-KANAKq-yellow?style=flat-square" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kanak234&style=flat-square&color=6e40c9" />
+</p>
 
-![Main menu](docs/screenshots/phase_7/p05_main_menu.png)
-![Mission 1](docs/screenshots/phase_7/linux_build_mission1.png)
+---
 
-## Features
-- Third-person controller: walk, run, sprint, crouch, jump, with blended animation and IK weapon holding.
-- Guard AI that **sees** (cone, distance, light level, stance, movement) and **hears** (footsteps, shots). States: patrol, suspicious, alert, combat, search. Guards take cover, flank and reload.
-- Alarm system: a guard runs to the alarm panel, then siren, beacons and reinforcement waves follow. You can disable the panel.
-- Knife, silenced pistol, assault rifle, sniper rifle; silent takedowns; binoculars with marking; satellite map; compass.
-- Ordered and optional objectives, checkpoints, results screen with a rating, rolling credits.
-- Settings: graphics presets, resolution, V-Sync, FPS cap, FOV, key rebinding, mouse and volume.
+### About me
 
-## Play
-**itch.io:** https://kanak234.itch.io/vajra
+- AI & Cybersecurity Engineer and Python developer — I build secure, practical AI systems end to end.
+- BCA (Cyber Security), AISECT University — graduating 2027.
+- AWS Certified — Data Analytics (Specialty).
+- Co-founder of RKSync Learn; creator of Cooding with Kanak on YouTube.
+- Astrophysics enthusiast; long-term goal is work in the space / aerospace sector.
+- Focused on AI/ML, cybersecurity, and tools for students with limited resources and connectivity.
 
-Download the Windows or Linux zip, unzip it, and run `Vajra.exe` / `Vajra.x86_64`. Nothing else to install (a Vulkan-capable GPU is needed).
-The same zips and the trailer are also attached to this repository's **v0.1.0 release**.
+### Tech I work with
 
-## Build from source
-1. Install **Godot 4.7.2** (standard build) and its export templates.
-2. Open `project.godot`, or run the game from a terminal:
-   ```bash
-   godot --path .
-   ```
-3. Export both builds (they go to `builds/`, which git ignores):
-   ```bash
-   godot --headless --export-release "Linux" builds/linux/Vajra.x86_64 && godot --headless --export-release "Windows Desktop" builds/windows/Vajra.exe
-   ```
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## Tests
-Every phase has an automated test, e.g.:
-```bash
-godot --headless --path . tests/test_phase7_release.tscn
-```
-Long stability run inside an exported build: `./builds/linux/Vajra.x86_64 --headless -- --soak=30`.
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Project layout
-```
-scenes/   scripts/   (player, ai, systems, ui, levels)
-assets/original/     made for this game (characters, weapons, level, animations)
-assets/third_party/  CC0 packs (see ASSET_LICENSES.md)
-tools/               content build scripts (Blender, Godot) and release packaging
-tests/               automated tests
-docs/                design, architecture, phase write-ups, acceptance, screenshots
-```
+### GitHub at a glance
 
-## Documentation
-- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md): how the systems fit together
-- [docs/PHASE_0_EXPLAINED.md](docs/PHASE_0_EXPLAINED.md) … [docs/PHASE_7_EXPLAINED.md](docs/PHASE_7_EXPLAINED.md): what each phase built
-- [docs/ACCEPTANCE.md](docs/ACCEPTANCE.md): Stage 1 acceptance results
-- [docs/VIVA_GUIDE.md](docs/VIVA_GUIDE.md): the four core systems explained
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanak234&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanak234&hide_border=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanak234&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+</p>
 
-## Credits and licenses
-- Characters: MakeHuman Community assets (CC0).
-- Animations: Quaternius Universal Animation Library (CC0).
-- Textures, HDRI and props: Poly Haven (CC0).
-- Engine: Godot (MIT).
+### Let's connect
 
-Full list: [ASSET_LICENSES.md](ASSET_LICENSES.md). No content from any other game is used.
+<a href="https://kanakprabhakar.online">Website</a> · <a href="https://www.youtube.com/@cooding-with-kanak">YouTube</a> · <a href="https://huggingface.co/KANAKq">Hugging Face</a>
 
-© Kanak Prabhakar. All rights reserved for the original code and content, except the third-party assets listed above, which keep their own licenses.
+<p align="center"><sub>Based in Hazaribagh, India · Always building.</sub></p>
