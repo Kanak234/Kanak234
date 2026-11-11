@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=620&lines=AI+%26+Cybersecurity+Engineer;Python+Developer+%7C+ML+Builder;4+apps+live+on+the+Microsoft+Store;Building+tools+for+the+next+billion+learners" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=620&lines=AI+%26+Cybersecurity+Engineer;Python+Developer+%7C+ML+Builder;5+apps+live+on+the+Microsoft+Store;Building+tools+for+the+next+billion+learners" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Kanak Prabhakar</h1>
@@ -34,7 +34,7 @@
 | **MEDHĀ IDE** | Native offline IDE (Python/PySide6) with real compilers, debugger and DSA visualiser | [Microsoft Store](https://apps.microsoft.com/detail/9ndcdm1mmh5t) · [Source](https://github.com/Kanak234/medha-ide) |
 | **Likhit** | Turns handwritten pages into editable Word documents — works offline | [Microsoft Store](https://apps.microsoft.com/detail/9ndshk78cc6n) · [Source](https://github.com/Kanak234/likhit) |
 | **DRISHYA** | Lightweight desktop video editor | [Microsoft Store](https://apps.microsoft.com/detail/9pf9qxmlm5tl) |
-| **SANKET** | Offline, two-way Indian Sign Language ↔ speech translator for Deaf and mute people | Microsoft Store — *coming soon* · [Source](https://github.com/Kanak234/SANKET) |
+| **SANKET ISL Translator** | Offline, two-way Indian Sign Language ↔ speech translator for Deaf and mute people | [Microsoft Store](https://apps.microsoft.com/detail/9nh6ttqjqtgj) · [Source](https://github.com/Kanak234/SANKET) |
 
 ### 🧩 Editor extensions
 
